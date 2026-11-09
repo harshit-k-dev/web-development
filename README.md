@@ -20,7 +20,7 @@ This directory contains my web development learning journey, starting from absol
 
 ## Current Progress
 
-- [o] HTML fundamentals
+- [✓] HTML fundamentals
 - [ ] CSS fundamentals
 - [ ] JavaScript fundamentals
 - [ ] DOM manipulation
